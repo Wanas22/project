@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/game ui/startbk/bk.unity
+    guid: 32527413d4bb74a49bd84715da3d9b75
+  - enabled: 1
+    path: Assets/game ui/start menu/start menu.unity
+    guid: ba0041b82426f904d828c3536b5012c5
+  - enabled: 1
+    path: Assets/game ui/video/pharaonic_video.unity
+    guid: 9f19e79edb0f9b14a96160e39efab178
+  - enabled: 1
+    path: Assets/game ui/video/ottoman_video.unity
+    guid: 9ad12f72d37a5df46bed04e7114a7902
+  - enabled: 1
+    path: Assets/game ui/video/modern_video.unity
+    guid: bbad27e048815994f93650a3f4d56871
+  - enabled: 1
+    path: Assets/Pharaonic era/scenes/pharaonic.unity
+    guid: 22a7a6bafd0be134782bef82b68743be
+  - enabled: 1
+    path: Assets/Ottoman era/scenes/ottoman.unity
+    guid: 9a267d3b1e904d246920b9e62282d3d3
+  - enabled: 1
+    path: Assets/Modern era/scenes/modern era.unity
+    guid: a65ce701b1097bf4996214d1a7bc21d8
+  - enabled: 1
+    path: Assets/game ui/settings menu/puse.unity
+    guid: 12c487818015712429880e9755c308ba
+  - enabled: 1
+    path: Assets/game ui/massge/massge.unity
+    guid: 46afff81fb025484a89ba611e73ab9e3
